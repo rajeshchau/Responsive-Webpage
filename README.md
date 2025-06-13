@@ -35,6 +35,9 @@ A clean, responsive single-page website built using HTML5 and CSS3. The layout s
 
 ## 🔍 Screenshot Previews
 
+![image](https://github.com/user-attachments/assets/b3a184ca-b043-4c24-b734-ea8e4f82f600)
+
+
 *Visual previews adapted to multiple viewports highlight your clean, responsive layout.*
 
 ---
